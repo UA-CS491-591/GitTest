@@ -8,3 +8,5 @@ this is a local change.
 this is a remote change from Github
 
 LOCAL CHANGE
+
+REMOTE CHANGE 2
