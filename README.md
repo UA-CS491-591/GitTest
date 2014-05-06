@@ -12,6 +12,3 @@ LOCAL CHANGE
 REMOTE CHANGE 2
 
 jhkjhgkhj
-
-
-thing to revert
